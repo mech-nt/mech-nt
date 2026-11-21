@@ -9,4 +9,4 @@ cyborg, under construction
 -- status: one claude prompt in >.<
 
 ## events
-- TBD!
+- 2026-12: [TBD]! probably visiting SF bay area
